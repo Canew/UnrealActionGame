@@ -1,0 +1,11 @@
+
+# Ignore unreal directories.
+.vs/
+Content/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore additives.
+/WarriorsAdventure.sln
